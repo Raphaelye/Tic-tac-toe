@@ -1,0 +1,31 @@
+
+
+.Header{
+    flex: 1;
+    border-right: 2px solid #777; 
+    text-align: center;
+    padding: 30px;
+}
+
+.header-item{
+    margin: 50px 0;
+}
+
+h1 span{
+    color:crimson ;
+}
+
+button{
+    border-radius: 50px;
+    background-color:none;
+    color: crimson;
+    padding: 16px 48px;
+    border: 2px solid crimson;
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+button:hover{
+    color: #fff;
+    background-color: rgba(223, 89, 116, 0.76);
+}
